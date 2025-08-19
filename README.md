@@ -44,5 +44,4 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joubertjose&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-  
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Waves" />
+<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
